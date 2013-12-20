@@ -1,7 +1,7 @@
 go-drink-scotch-ron
 ===================
 
-![Ron Burgundy](Ron-Burgundy.jpg)
+![Ron Burgundy](https://github.com/chip/go-drink-scotch-ron/raw/master/Ron-Burgundy.jpg)
 
 Mm, I love scotch. I love Scotch. Scotchy, Scotch, Scotch. Here it goes down. Down into my belly. Mm-mm-mm.
 
