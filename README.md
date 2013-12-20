@@ -8,6 +8,9 @@ Mm, I love scotch. I love Scotch. Scotchy, Scotch, Scotch. Here it goes down. Do
 ===================
 This is my first program in the Go language.
 
+It's a random quote generator from the lips of Ron Burgundy.  Ok, not
+directly, but you get the idea.
+
 Quick start:
 
 1. Install Go
